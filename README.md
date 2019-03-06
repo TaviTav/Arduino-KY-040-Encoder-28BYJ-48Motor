@@ -1,4 +1,4 @@
-# Arduino-KY-040-Encoder-28BYJ-48Motor
+# Arduino Uno KY-040 Encoder 28BYJ-48 5V Stepper Motor
 
 Description
 -------
