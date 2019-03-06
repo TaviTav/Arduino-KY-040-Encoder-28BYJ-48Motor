@@ -4,7 +4,12 @@ Description
 -------
 
 Simple sketch combining arduino UNO, KY-040 Rotary Encoder and 28BYJ-48 5V Stepper Motor. <br>
-Visual Studio Code & PlatformIO
+
+Project series: Class demonstration:<br>
+Level Beginer<br>
+Setup under 10 minutes<br>
+Fritzing sketch and hi-res png attached<br>
+IDE: Visual Studio Code & PlatformIO<br>
 
 Parts used
 -------
@@ -18,7 +23,7 @@ KY-040 Rotary Encoder<br>
 Sketch
 -------
 
-<img src="/FritzingSketch/Arduino Uno Encoder_bb.png" alt="My cool logo"/>
+<img src="/FritzingSketch/Arduino Uno Encoder_bb.png" alt="fritzing sketch"/>
 <br>
 <br>
 
