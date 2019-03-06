@@ -9,10 +9,10 @@ Visual Studio Code & PlatformIO
 Parts used
 -------
 
-Arduino UNO<br>
+<a target='_blank' href='https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html?p=7V2908432685201401JL&custlinkid=172009' title='' >UNO R3 ATmega328P</a><br>
 28BYJ-48 5V Stepper Motor with driver<br>
 KY-040 Rotary Encoder<br>
-Breadboard, Jumpers, Breadboard Dedicated Power Module<br>
+<a target='_blank' href='https://www.banggood.com/MB-102-MB102-Solderless-Breadboard-Power-Supply-Jumper-Cable-Kits-Dupont-Wire-For-Arduino-p-933600.html?p=7V2908432685201401JL&custlinkid=172010' title='' >Breadboard, Jumpers, Breadboard Dedicated Power Module</a><br>
 6V 0.6A Power Supply<br>
 
 Sketch
