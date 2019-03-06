@@ -11,3 +11,10 @@ Breadboard, Jumpers, Breadboard Dedicated Power Module<br>
 6V 0.6A Power Supply<br>
 
 <img src="/FritzingSketch/Arduino Uno Encoder_bb.png" alt="My cool logo"/>
+<br>
+<br>
+
+License
+-------
+
+This software is released under the MIT license.
