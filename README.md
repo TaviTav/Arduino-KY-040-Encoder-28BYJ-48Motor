@@ -3,7 +3,8 @@
 Description
 -------
 
-Simple sketch combining arduino UNO, KY-040 Rotary Encoder and 28BYJ-48 5V Stepper Motor
+Simple sketch combining arduino UNO, KY-040 Rotary Encoder and 28BYJ-48 5V Stepper Motor. <br>
+Visual Studio Code & PlatformIO
 
 Parts used
 -------
