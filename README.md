@@ -27,6 +27,12 @@ Sketch
 <br>
 <br>
 
+Assembly
+-------
+<img src="/img/2.jpg" alt="Assembly"/>
+<br>
+<br>
+
 License
 -------
 
